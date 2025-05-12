@@ -34,5 +34,7 @@ View Bookings: Check your booked tickets and manage them.
 
 # Acknowledgments
 https://dev.mysql.com/downloads/connector/j/
+
 https://docs.oracle.com/javase/tutorial/uiswing/
+
 https://www.geeksforgeeks.org/java-database-connectivity-with-mysql/
